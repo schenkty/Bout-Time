@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-<dict>
-	<key>Logo</key>
+<array>
 	<dict>
 		<key>name</key>
 		<string>Logo</string>
@@ -11,7 +10,6 @@
 		<key>url</key>
 		<string>https://en.wikipedia.org/wiki/Logo_(programming_language)</string>
 	</dict>
-	<key>B</key>
 	<dict>
 		<key>name</key>
 		<string>B</string>
@@ -20,7 +18,6 @@
 		<key>url</key>
 		<string>https://en.wikipedia.org/wiki/B_(programming_language)</string>
 	</dict>
-	<key>Pascal</key>
 	<dict>
 		<key>name</key>
 		<string>Pascal</string>
@@ -29,7 +26,6 @@
 		<key>url</key>
 		<string>https://en.wikipedia.org/wiki/Pascal_(programming_language)</string>
 	</dict>
-	<key>Forth</key>
 	<dict>
 		<key>name</key>
 		<string>Forth</string>
@@ -38,7 +34,6 @@
 		<key>url</key>
 		<string>https://en.wikipedia.org/wiki/Forth_(programming_language)</string>
 	</dict>
-	<key>C</key>
 	<dict>
 		<key>name</key>
 		<string>C</string>
@@ -47,7 +42,6 @@
 		<key>url</key>
 		<string>https://en.wikipedia.org/wiki/C_(programming_language)</string>
 	</dict>
-	<key>Smalltalk</key>
 	<dict>
 		<key>name</key>
 		<string>Smalltalk</string>
@@ -56,7 +50,6 @@
 		<key>url</key>
 		<string>https://en.wikipedia.org/wiki/Smalltalk</string>
 	</dict>
-	<key>Prolong</key>
 	<dict>
 		<key>name</key>
 		<string>Prolong</string>
@@ -65,7 +58,6 @@
 		<key>url</key>
 		<string>https://en.wikipedia.org/wiki/Prolog</string>
 	</dict>
-	<key>ML</key>
 	<dict>
 		<key>name</key>
 		<string>ML</string>
@@ -74,7 +66,6 @@
 		<key>url</key>
 		<string>https://en.wikipedia.org/wiki/ML_(programming_language)</string>
 	</dict>
-	<key>Scheme</key>
 	<dict>
 		<key>name</key>
 		<string>Scheme</string>
@@ -83,7 +74,6 @@
 		<key>url</key>
 		<string>https://en.wikipedia.org/wiki/Scheme_(programming_language)</string>
 	</dict>
-	<key>SQL</key>
 	<dict>
 		<key>name</key>
 		<string>SQL</string>
@@ -92,7 +82,6 @@
 		<key>url</key>
 		<string>https://en.wikipedia.org/wiki/SQL</string>
 	</dict>
-	<key>C_plus_plus</key>
 	<dict>
 		<key>name</key>
 		<string>C++</string>
@@ -101,7 +90,6 @@
 		<key>url</key>
 		<string>https://en.wikipedia.org/wiki/C%2B%2B</string>
 	</dict>
-	<key>Ada</key>
 	<dict>
 		<key>name</key>
 		<string>Ada</string>
@@ -110,7 +98,6 @@
 		<key>url</key>
 		<string>https://en.wikipedia.org/wiki/Ada_(programming_language)</string>
 	</dict>
-	<key>Common_Lisp</key>
 	<dict>
 		<key>name</key>
 		<string>Common Lisp</string>
@@ -119,7 +106,6 @@
 		<key>url</key>
 		<string>https://en.wikipedia.org/wiki/Common_Lisp</string>
 	</dict>
-	<key>MATLAB</key>
 	<dict>
 		<key>name</key>
 		<string>MATLAB</string>
@@ -128,7 +114,6 @@
 		<key>url</key>
 		<string>https://en.wikipedia.org/wiki/MATLAB</string>
 	</dict>
-	<key>Eiffel</key>
 	<dict>
 		<key>name</key>
 		<string>Eiffel</string>
@@ -137,7 +122,6 @@
 		<key>url</key>
 		<string>https://en.wikipedia.org/wiki/Eiffel_(programming_language)</string>
 	</dict>
-	<key>Objective_C</key>
 	<dict>
 		<key>name</key>
 		<string>Objective C</string>
@@ -146,7 +130,6 @@
 		<key>url</key>
 		<string>https://en.wikipedia.org/wiki/Objective-C</string>
 	</dict>
-	<key>Erlang</key>
 	<dict>
 		<key>name</key>
 		<string>Erlang</string>
@@ -155,7 +138,6 @@
 		<key>url</key>
 		<string>https://en.wikipedia.org/wiki/Erlang_(programming_language)</string>
 	</dict>
-	<key>Perl</key>
 	<dict>
 		<key>name</key>
 		<string>Perl</string>
@@ -164,7 +146,6 @@
 		<key>url</key>
 		<string>https://en.wikipedia.org/wiki/Perl</string>
 	</dict>
-	<key>TCL</key>
 	<dict>
 		<key>name</key>
 		<string>TCL</string>
@@ -173,7 +154,6 @@
 		<key>url</key>
 		<string>https://en.wikipedia.org/wiki/Tcl</string>
 	</dict>
-	<key>Wolfram_Language</key>
 	<dict>
 		<key>name</key>
 		<string>Wolfram Language</string>
@@ -182,7 +162,6 @@
 		<key>url</key>
 		<string>https://en.wikipedia.org/wiki/Wolfram_Language</string>
 	</dict>
-	<key>FL</key>
 	<dict>
 		<key>name</key>
 		<string>FL</string>
@@ -191,7 +170,6 @@
 		<key>url</key>
 		<string>https://en.wikipedia.org/wiki/FL_(programming_language)</string>
 	</dict>
-	<key>Haskell</key>
 	<dict>
 		<key>name</key>
 		<string>Haskell</string>
@@ -200,7 +178,6 @@
 		<key>url</key>
 		<string>https://en.wikipedia.org/wiki/Haskell_(programming_language)</string>
 	</dict>
-	<key>Python</key>
 	<dict>
 		<key>name</key>
 		<string>Python</string>
@@ -209,7 +186,6 @@
 		<key>url</key>
 		<string>https://en.wikipedia.org/wiki/Python_(programming_language)</string>
 	</dict>
-	<key>Visual_Basic</key>
 	<dict>
 		<key>name</key>
 		<string>Visual Basic</string>
@@ -218,7 +194,6 @@
 		<key>url</key>
 		<string>https://en.wikipedia.org/wiki/Visual_Basic</string>
 	</dict>
-	<key>Ruby</key>
 	<dict>
 		<key>name</key>
 		<string>Ruby</string>
@@ -227,7 +202,6 @@
 		<key>url</key>
 		<string>https://en.wikipedia.org/wiki/Ruby_(programming_language)</string>
 	</dict>
-	<key>Lua</key>
 	<dict>
 		<key>name</key>
 		<string>Lua</string>
@@ -236,7 +210,6 @@
 		<key>url</key>
 		<string>https://en.wikipedia.org/wiki/Lua_(programming_language)</string>
 	</dict>
-	<key>R</key>
 	<dict>
 		<key>name</key>
 		<string>R</string>
@@ -245,7 +218,6 @@
 		<key>url</key>
 		<string>https://en.wikipedia.org/wiki/R_(programming_language)</string>
 	</dict>
-	<key>CLOS</key>
 	<dict>
 		<key>name</key>
 		<string>CLOS</string>
@@ -254,7 +226,6 @@
 		<key>url</key>
 		<string>https://en.wikipedia.org/wiki/CLOS</string>
 	</dict>
-	<key>Ada_95</key>
 	<dict>
 		<key>name</key>
 		<string>Ada 95</string>
@@ -263,7 +234,6 @@
 		<key>url</key>
 		<string>https://en.wikipedia.org/wiki/Ada_95</string>
 	</dict>
-	<key>Java</key>
 	<dict>
 		<key>name</key>
 		<string>Java</string>
@@ -272,7 +242,6 @@
 		<key>url</key>
 		<string>https://en.wikipedia.org/wiki/Java_(programming_language)</string>
 	</dict>
-	<key>Delphi</key>
 	<dict>
 		<key>name</key>
 		<string>Delphi</string>
@@ -281,7 +250,6 @@
 		<key>url</key>
 		<string>https://en.wikipedia.org/wiki/Embarcadero_Delphi</string>
 	</dict>
-	<key>Javascript</key>
 	<dict>
 		<key>name</key>
 		<string>Javascript</string>
@@ -290,7 +258,6 @@
 		<key>url</key>
 		<string>https://en.wikipedia.org/wiki/JavaScript</string>
 	</dict>
-	<key>PHP</key>
 	<dict>
 		<key>name</key>
 		<string>PHP</string>
@@ -299,7 +266,6 @@
 		<key>url</key>
 		<string>https://en.wikipedia.org/wiki/PHP</string>
 	</dict>
-	<key>Rebol</key>
 	<dict>
 		<key>name</key>
 		<string>Rebol</string>
@@ -308,7 +274,6 @@
 		<key>url</key>
 		<string>https://en.wikipedia.org/wiki/REBOL</string>
 	</dict>
-	<key>D</key>
 	<dict>
 		<key>name</key>
 		<string>D</string>
@@ -317,7 +282,6 @@
 		<key>url</key>
 		<string>https://en.wikipedia.org/wiki/D_(programming_language)</string>
 	</dict>
-	<key>ActionScript</key>
 	<dict>
 		<key>name</key>
 		<string>ActionScript</string>
@@ -326,7 +290,6 @@
 		<key>url</key>
 		<string>https://en.wikipedia.org/wiki/ActionScript</string>
 	</dict>
-	<key>C_sharp</key>
 	<dict>
 		<key>name</key>
 		<string>C#</string>
@@ -335,7 +298,6 @@
 		<key>url</key>
 		<string>https://en.wikipedia.org/wiki/C_Sharp_(programming_language)</string>
 	</dict>
-	<key>Apache_Groovy</key>
 	<dict>
 		<key>name</key>
 		<string>Apache Groovy</string>
@@ -344,7 +306,6 @@
 		<key>url</key>
 		<string>https://en.wikipedia.org/wiki/Groovy_(programming_language)</string>
 	</dict>
-	<key>Scala</key>
 	<dict>
 		<key>name</key>
 		<string>Scala</string>
@@ -353,7 +314,6 @@
 		<key>url</key>
 		<string>https://en.wikipedia.org/wiki/Scala_(programming_language)</string>
 	</dict>
-	<key>F_sharp</key>
 	<dict>
 		<key>name</key>
 		<string>F#</string>
@@ -362,7 +322,6 @@
 		<key>url</key>
 		<string>https://en.wikipedia.org/wiki/F_Sharp_(programming_language)</string>
 	</dict>
-	<key>Windows_Powershell</key>
 	<dict>
 		<key>name</key>
 		<string>Windows PowerShell</string>
@@ -371,7 +330,6 @@
 		<key>url</key>
 		<string>https://en.wikipedia.org/wiki/Windows_PowerShell</string>
 	</dict>
-	<key>Clojure</key>
 	<dict>
 		<key>name</key>
 		<string>Clojure</string>
@@ -380,7 +338,6 @@
 		<key>url</key>
 		<string>https://en.wikipedia.org/wiki/Clojure</string>
 	</dict>
-	<key>Go</key>
 	<dict>
 		<key>name</key>
 		<string>Go</string>
@@ -389,7 +346,6 @@
 		<key>url</key>
 		<string>https://en.wikipedia.org/wiki/Go_(programming_language)</string>
 	</dict>
-	<key>Rust</key>
 	<dict>
 		<key>name</key>
 		<string>Rust</string>
@@ -398,7 +354,6 @@
 		<key>url</key>
 		<string>https://en.wikipedia.org/wiki/Rust_(programming_language)</string>
 	</dict>
-	<key>Dart</key>
 	<dict>
 		<key>name</key>
 		<string>Dart</string>
@@ -407,7 +362,6 @@
 		<key>url</key>
 		<string>https://en.wikipedia.org/wiki/Dart_(programming_language)</string>
 	</dict>
-	<key>Julia</key>
 	<dict>
 		<key>name</key>
 		<string>Julia</string>
@@ -416,7 +370,6 @@
 		<key>url</key>
 		<string>https://en.wikipedia.org/wiki/Julia_(programming_language)</string>
 	</dict>
-	<key>Swift</key>
 	<dict>
 		<key>name</key>
 		<string>Swift</string>
@@ -425,5 +378,5 @@
 		<key>url</key>
 		<string>https://en.wikipedia.org/wiki/Swift_(programming_language)</string>
 	</dict>
-</dict>
+</array>
 </plist>
