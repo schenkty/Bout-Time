@@ -20,7 +20,13 @@ struct Round {
     }
 }
 
-struct LanguageEvent {
+protocol LanguageType {
+    var name: String { get }
+    var year: Int { get }
+    var url: String { get }
+}
+
+struct LanguageEvent: LanguageType {
     var name: String
     var year: Int
     var url: String
@@ -43,7 +49,6 @@ func randomNumberGenerator(usedNumbers: [Int], max: Int) -> Int {
     //Return a number that is not used before
     return randomNumber
 }
-
 
 var usedEvents: [String] = []
 

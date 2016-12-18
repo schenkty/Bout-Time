@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		105878701E0646E300891043 /* Events.plist in Resources */ = {isa = PBXBuildFile; fileRef = 1058786F1E0646E300891043 /* Events.plist */; };
 		10C1EAD51E05A3D200844163 /* Data.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10C1EAD41E05A3D200844163 /* Data.swift */; };
 		10C7FEDE1E05D7AB00BC4EF0 /* WebView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10C7FEDD1E05D7AB00BC4EF0 /* WebView.swift */; };
 		10C7FEE11E05DFEF00BC4EF0 /* CorrectDing.wav in Resources */ = {isa = PBXBuildFile; fileRef = 10C7FEDF1E05DFEF00BC4EF0 /* CorrectDing.wav */; };
@@ -19,6 +20,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		1058786F1E0646E300891043 /* Events.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Events.plist; sourceTree = "<group>"; };
 		10C1EAD41E05A3D200844163 /* Data.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Data.swift; sourceTree = "<group>"; };
 		10C7FEDD1E05D7AB00BC4EF0 /* WebView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WebView.swift; sourceTree = "<group>"; };
 		10C7FEDF1E05DFEF00BC4EF0 /* CorrectDing.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = CorrectDing.wav; sourceTree = "<group>"; };
@@ -72,6 +74,7 @@
 				10C1EAD41E05A3D200844163 /* Data.swift */,
 				10C7FEDF1E05DFEF00BC4EF0 /* CorrectDing.wav */,
 				10C7FEE01E05DFEF00BC4EF0 /* IncorrectBuzz.wav */,
+				1058786F1E0646E300891043 /* Events.plist */,
 			);
 			path = "Bout Time";
 			sourceTree = "<group>";
@@ -112,7 +115,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 10CEA7541E05967300D2C031 /* Build configuration list for PBXProject "Bout Time" */;
+			buildConfigurationList = 10CEA7541E05967300D2C031 /* Build configuration list for PBXProject "BoutTime" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -140,6 +143,7 @@
 				10CEA7641E05967400D2C031 /* Assets.xcassets in Resources */,
 				10CEA7621E05967400D2C031 /* Main.storyboard in Resources */,
 				10C7FEE11E05DFEF00BC4EF0 /* CorrectDing.wav in Resources */,
+				105878701E0646E300891043 /* Events.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -302,7 +306,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		10CEA7541E05967300D2C031 /* Build configuration list for PBXProject "Bout Time" */ = {
+		10CEA7541E05967300D2C031 /* Build configuration list for PBXProject "BoutTime" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				10CEA77F1E05967400D2C031 /* Debug */,
