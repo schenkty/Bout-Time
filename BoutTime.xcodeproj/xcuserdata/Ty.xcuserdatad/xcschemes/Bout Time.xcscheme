@@ -17,7 +17,7 @@
                BlueprintIdentifier = "10CEA7581E05967400D2C031"
                BuildableName = "Bout Time.app"
                BlueprintName = "Bout Time"
-               ReferencedContainer = "container:Bout Time.xcodeproj">
+               ReferencedContainer = "container:BoutTime.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -28,26 +28,6 @@
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
-         <TestableReference
-            skipped = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "10CEA76C1E05967400D2C031"
-               BuildableName = "Bout TimeTests.xctest"
-               BlueprintName = "Bout TimeTests"
-               ReferencedContainer = "container:Bout Time.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
-         <TestableReference
-            skipped = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "10CEA7771E05967400D2C031"
-               BuildableName = "Bout TimeUITests.xctest"
-               BlueprintName = "Bout TimeUITests"
-               ReferencedContainer = "container:Bout Time.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
@@ -55,7 +35,7 @@
             BlueprintIdentifier = "10CEA7581E05967400D2C031"
             BuildableName = "Bout Time.app"
             BlueprintName = "Bout Time"
-            ReferencedContainer = "container:Bout Time.xcodeproj">
+            ReferencedContainer = "container:BoutTime.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -78,7 +58,7 @@
             BlueprintIdentifier = "10CEA7581E05967400D2C031"
             BuildableName = "Bout Time.app"
             BlueprintName = "Bout Time"
-            ReferencedContainer = "container:Bout Time.xcodeproj">
+            ReferencedContainer = "container:BoutTime.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -97,7 +77,7 @@
             BlueprintIdentifier = "10CEA7581E05967400D2C031"
             BuildableName = "Bout Time.app"
             BlueprintName = "Bout Time"
-            ReferencedContainer = "container:Bout Time.xcodeproj">
+            ReferencedContainer = "container:BoutTime.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
